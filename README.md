@@ -7,7 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devfahadali&label=Profile%20views&color=0e75b6&style=flat" alt="devfahadali" /> </p>
 
-- 🔭 I’m currently working on [Mobizion](Mobizion)
+- 🔭 I’m currently working on Android and Flutter developer 
 
 - 💬 Ask me about **Android , Flutter**
 
